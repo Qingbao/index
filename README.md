@@ -1,2 +1,2 @@
-# index-html
-A Basic Index HTML Template For Any Project
+# index
+Basic Index Templates For Any Project
